@@ -2,8 +2,11 @@
 Repository for the main Deep learning in Python homework
 
 Csapattagok: 
+
   Faludi Zsófia - B4ZPWB
+  
   Danyi Kristóf - GQOKMW
+  
   Szemán Barnabás - ZKR2O5
   
 Projekt ismertetése: 
