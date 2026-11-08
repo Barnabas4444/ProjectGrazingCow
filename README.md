@@ -18,6 +18,6 @@ train_small_images: a kaggle-en meghatározott train adathalmaz, 30db-os részha
 
 train_small.csv: a train_small_images-ben megtalálható 30db kép csv formátumban
 
+data_preparation.ipynb: ez a notebook tartalmazza az adatok beolvasását, elemzését és vizualizációját
 
-pasture_biomass_tensorflow.ipynb: A kód egy TensorFlow-modellt tanít be, amely egy legelőfotóból öt biomasszaértéket becsül grammban. A végén a tesztképekre is elkészíti a becsléseket, és Kaggle-formátumú submission.csv fájlba írja őket.
-
+pasture_biomass_tensorflow.ipynb: a notebookban egy TensorFlow-modellt tanítunk be, amely egy legelőfotóból öt biomasszaértéket becsül grammban, illetve a végén a tesztképekre is elkészítjük a becsléseket.
