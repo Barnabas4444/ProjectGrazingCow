@@ -7,4 +7,6 @@ Csapattagok:
   Szemán Barnabás - 
 
 Projekt ismertetése: 
-A projekt a CSIRO – Image2Biomass Prediction Kaggle-verseny feladatán alapul. A cél a legelőkről készült fényképek alapján öt, grammban megadott biomasszaérték becslése. A becslések segíthetnek a legelők állapotának és a rendelkezésre álló takarmány mennyiségének követésében.
+Van elég fű a legelőn az állatoknak? A rendelkezésre álló takarmány mennyiségének becslése segít a gazdáknak eldönteni, mikor hajtsák ki az állatokat, és mikor hagyják a legelőt regenerálódni. A CSIRO – Image2Biomass Prediction Kaggle-verseny feladata a legelők biomasszájának becslése fényképek alapján. A verseny adatkészlete különböző ausztrál régiókból és évszakokból származó, eltérő fajösszetételű legelőkről készült képeket tartalmaz. A képekhez helyszíni biomasszamérések és a növényzet állapotát jellemző NDVI-értékek is tartoznak. A feladatban öt, grammban megadott értéket kell becsülni.
+
+
