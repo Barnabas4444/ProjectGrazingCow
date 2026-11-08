@@ -17,3 +17,7 @@ test.csv: a kód számára beolvasható csv formátumban tartalmazza a teszt ké
 train_small_images: a kaggle-en meghatározott train adathalmaz, 30db-os részhalmazát tartalmazza png formátumokban
 
 train_small.csv: a train_small_images-ben megtalálható 30db kép csv formátumban
+
+
+pasture_biomass_tensorflow.ipynb: A kód egy TensorFlow-modellt tanít be, amely egy legelőfotóból öt biomasszaértéket becsül grammban. A végén a tesztképekre is elkészíti a becsléseket, és Kaggle-formátumú submission.csv fájlba írja őket.
+
